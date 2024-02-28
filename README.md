@@ -6,3 +6,4 @@ This repository contains code for sample questions and problems in python
 ## This Repository Includes
 * Adventure Game
 * Password Generator
+* Quiz Application
